@@ -7,8 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinMes", "WinMes\WinMes.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sendmessagec", "sendmessagesendc\sendmessagec.csproj", "{B113FAE6-647D-4101-8F04-786FD80A29AF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "getmessagec", "sendmessagegetc\getmessagec.csproj", "{AA76286F-8BCB-45E7-A33A-EE45416B34F4}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,10 +21,6 @@ Global
 		{B113FAE6-647D-4101-8F04-786FD80A29AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B113FAE6-647D-4101-8F04-786FD80A29AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B113FAE6-647D-4101-8F04-786FD80A29AF}.Release|Any CPU.Build.0 = Release|Any CPU
-		{AA76286F-8BCB-45E7-A33A-EE45416B34F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AA76286F-8BCB-45E7-A33A-EE45416B34F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AA76286F-8BCB-45E7-A33A-EE45416B34F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AA76286F-8BCB-45E7-A33A-EE45416B34F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
