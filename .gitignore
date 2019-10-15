@@ -5,3 +5,7 @@
 /.vs
 /WinMes/bin/Debug
 /WinMes/obj
+/sendmessagesendc/.vs/sendmessagec/v16
+/sendmessagesendc/Backup
+/sendmessagesendc/bin/Debug
+/sendmessagesendc/obj/Debug
